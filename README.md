@@ -1,2 +1,1 @@
-# Ciencia-de-datos
-Repositorio de trabajos prácticos de ciencia de datos, cátedra Martinelli
+Para ejecutar los notebooks primero subirlos a Google Colab y agregar los archivos necesarios (los dataframes), luego ejecutar en cada uno la primera celda y luego de eso se puede ejecutar el resto
