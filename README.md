@@ -1,1 +1,1 @@
-Para ejecutar los notebooks primero subirlos a Google Colab y agregar los archivos necesarios (los dataframes), luego ejecutar en cada uno la primera celda y luego de eso se puede ejecutar el resto
+Para ejecutar los notebooks de cada carpeta de TP primero subirlos a Google Colab y agregar los archivos necesarios (del set de datos), luego ejecutar en cada uno las primeras celdas para setupear todo y luego de eso se puede ejecutar el resto
